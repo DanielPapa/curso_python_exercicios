@@ -1,0 +1,13 @@
+Faça um algoritmo
+
+Dado 5 números lidos em ordem crescente, calcule a média e a mediana.
+O algoritmo deve imprimir na tela a média e a mediana dos números.
+
+num1 = recebe_primeiro
+num2 = recebe_segundo
+num3 = recebe_terceiro
+num4 = recebe_quarto
+num5 = recebe_quinto
+
+media = (num1+num2+num3+num4+num5)/5
+mediana  = num3
