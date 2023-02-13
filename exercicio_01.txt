@@ -11,4 +11,4 @@ num5 = recebe_quinto
 
 media = (num1+num2+num3+num4+num5)/5
 mediana  = num3
-print("A media dos dados é [media] e a mediada dos dados é [mediana]")
+print("A media dos dados é {media} e a mediana dos dados é {mediana}")
