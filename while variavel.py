@@ -1,0 +1,2 @@
+while variavel = 0
+    
