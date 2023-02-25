@@ -1,0 +1,1 @@
+dado = input("Digite seu nome")
